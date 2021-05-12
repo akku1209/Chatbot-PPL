@@ -1,7 +1,7 @@
 
-#CHATBOT
+# CHATBOT
 
-##PPL PROJECT
+## PPL PROJECT
 
 Chat bot was created using Python.
 Libraries like 
